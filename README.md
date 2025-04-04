@@ -1,6 +1,6 @@
 # Student Record Management System  
 
-![Student Record Management Interface](https://github.com/your-username/student-record-system/blob/main/images/interface.png)  
+![Student Record Management Interface](StudentRecordManagement.png)  
 
 This is a **Student Record Management System** built using Python's `tkinter` for the GUI and `pymysql` for database operations. The application allows users to add, search, update, and delete student records efficiently.  
 
